@@ -1,6 +1,6 @@
 cask "immemor" do
-  version "0.3.0"
-  sha256 "4a8438f62e5de0510e5823941910eec96c9d253e131e20d82b48f9473618fe4e"
+  version "0.3.1"
+  sha256 "cb8d4dc25b26f7514354ddf3093cbd962c49aaa07f9b99b7f64cba319d2ac350"
 
   url "https://github.com/Artur-Galstyan/immemor/releases/download/v#{version}/immemor_#{version}_universal.dmg"
   name "immemor"
