@@ -1,6 +1,6 @@
 cask "immemor" do
-  version "0.6.4"
-  sha256 "0314284dbe012e4653c350162c3ad40bbb0cf32a05af16ada40c9d9417310254"
+  version "0.6.5"
+  sha256 "0eade5c9e6028efbd7078122dbb624eb3a474faee1d342f4959ce23a3dc065fd"
   url "https://github.com/Artur-Galstyan/immemor-releases/releases/download/v#{version}/immemor_#{version}_universal.dmg"
   name "immemor"
   desc "Spaced repetition flashcard app"
